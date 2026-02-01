@@ -27,7 +27,7 @@
 - 💡 Working with **Flutter, Firebase, Node.js** & more
 - 💪 **Fitness freak** - Gym, Calisthenics & Workout planning
 - 🎯 **2026 Goals**: Master AI/ML integration in mobile apps
-- 📧 Reach me: **preritsaini@example.com**
+- 📧 Reach me: **sainiprerit6@gmail.com**
 - ⚡ **Fun fact**: I debug my code better after a gym session!
 
 <br clear="right"/>
@@ -123,13 +123,12 @@ class PreritSaini {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preritsaini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerit-saini-3b99a62b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Preritsaini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preritsaini@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainiprerit6@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://preritsaini.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/preritsaini)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/preritsaini)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/prerit_saini/)
 </div>
 
 <br/>
