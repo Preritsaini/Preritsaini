@@ -20,8 +20,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 💻 **Full Stack Developer** | B.Tech CS Student at Dehradun
-- 📱 **7+ months** of hands-on Flutter development experience
+- 💻 **Full Stack Developer** | B.Tech CS Student
+- 📱 **1+ year** of hands-on Flutter development experience
 - 🚀 Building **production-ready apps** with beautiful UIs
 - 🧠 Currently diving deep into **AI/ML** and **Advanced Backend**
 - 💡 Working with **Flutter, Firebase, Node.js** & more
@@ -80,18 +80,6 @@
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preritsaini/Preritsaini/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Preritsaini/Preritsaini/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Preritsaini/Preritsaini/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
 ## 📅 Contribution Graph
 
 <div align="center">
@@ -104,7 +92,7 @@
 
 ```dart
 class PreritSaini {
-  final String location = "📍 Dehradun, India";
+  final String location = 📍 India
   final List<String> currentlyLearning = [
     "AI/ML Integration in Mobile Apps",
     "Advanced Flutter Architectures",
